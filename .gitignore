@@ -1,0 +1,4 @@
+data/*
+certs/*
+!certs/.gitkeep
+!data/.gitkeep
